@@ -1,0 +1,7 @@
+{
+  "fabric-registry-sync-v0.unknown-remote.title.singular": "收到了一个本客户端无法识别的注册表项。\n",
+  "fabric-registry-sync-v0.unknown-remote.title.plural": "收到了 %d 个本客户端无法识别的注册表项。\n",
+  "fabric-registry-sync-v0.unknown-remote.subtitle.1": "这通常是客户端与服务器安装的模组不一致所致。",
+  "fabric-registry-sync-v0.unknown-remote.subtitle.2": " 请查看客户端日志了解详情。\n以下注册表项的命名空间可能与此有关：\n\n",
+  "fabric-registry-sync-v0.unknown-remote.footer": "另有 %d 项未显示……"
+}

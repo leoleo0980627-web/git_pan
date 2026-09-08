@@ -1,0 +1,8 @@
+{
+  "message.compasstomapxaeros.structure_found": "已发现 %s，位置：%s",
+  "message.compasstomapxaeros.biome_found": "已发现生物群系 %s，位置：%s",
+  "compasstomapxaeros.configuration.title": "指南针标记地图",
+  "compasstomapxaeros.configuration.feature": "功能",
+  "compasstomapxaeros.configuration.notification": "通知",
+  "compasstomapxaeros.configuration.appearance": "外观"
+}

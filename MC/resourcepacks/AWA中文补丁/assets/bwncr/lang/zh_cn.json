@@ -1,0 +1,20 @@
+{
+  "badwithernocookiereloaded.general.tooltip": "可屏蔽的全局基础音效与事件",
+  "badwithernocookiereloaded.xtra.tooltip": "可屏蔽的其他局部音效",
+  "badwithernocookiereloaded.localized settings.silenceus": "示例：entity.sheep.step；使用 /listen 查找其他音效",
+  "bwncr.configuration.general": "常规",
+  "bwncr.config.silenceUs": "屏蔽自定义音效",
+  "bwncr.config.silenceWither": "屏蔽凋灵音效",
+  "bwncr.config.debugMode": "调试模式",
+  "bwncr.config.silenceTrader": "屏蔽流浪商人音效",
+  "bwncr.config.silenceLightning": "屏蔽雷声音效",
+  "bwncr.config.silenceDragon": "屏蔽末影龙音效",
+  "text.autoconfig.bwncr.title": "Bad Wither No Cookie - Reloaded",
+  "text.autoconfig.bwncr.option.general": "常规",
+  "text.autoconfig.bwncr.option.general.silenceWither": "屏蔽凋灵音效",
+  "text.autoconfig.bwncr.option.general.silenceTrader": "屏蔽流浪商人音效",
+  "text.autoconfig.bwncr.option.general.silenceDragon": "屏蔽末影龙音效",
+  "text.autoconfig.bwncr.option.general.silenceLightning": "屏蔽雷声音效",
+  "text.autoconfig.bwncr.option.general.silenceUs": "屏蔽自定义音效",
+  "text.autoconfig.bwncr.option.general.debugMode": "调试模式"
+}

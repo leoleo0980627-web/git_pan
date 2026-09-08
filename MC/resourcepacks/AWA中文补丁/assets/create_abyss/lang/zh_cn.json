@@ -1,0 +1,14 @@
+{
+  "block.create_abyss.creepvine_seed": "海藻藤种子",
+  "block.create_abyss.submarine_liana": "海底藤蔓",
+  "create_abyss.command.no_sublevel_container": "当前维度中未找到子世界容器。",
+  "create_abyss.command.player_only": "只有玩家可以执行此命令。",
+  "create_abyss.command.queue_submarine_lianas": "已安排从你的位置开始生成 %s 根长度为 %s 的海底藤蔓",
+  "create_abyss.command.spawn_liana_failed": "海底藤蔓生成失败。",
+  "create_abyss.command.spawn_liana_success": "已成功生成一根长度为 %s 的海底藤蔓",
+  "entity.create_abyss.amphistium": "安菲斯提姆鱼",
+  "entity.create_abyss.cookiecutter_shark": "雪茄达摩鲨",
+  "item.create_abyss.amphistium_spawn_egg": "安菲斯提姆鱼刷怪蛋",
+  "item.create_abyss.cookiecutter_shark_spawn_egg": "雪茄达摩鲨刷怪蛋",
+  "itemGroup.create_abyss.abyss_tab": "Create: Abyss"
+}

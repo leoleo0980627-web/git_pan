@@ -1,0 +1,5 @@
+{
+  "commands.polymorph.conflicts.starting": "正在查找配方冲突……",
+  "commands.polymorph.conflicts.success": "发现 %d 个潜在冲突。请查看 logs/conflicts.log 获取详细信息。",
+  "polymorph.networking.failed": "Polymorph 网络通信失败：%s"
+}

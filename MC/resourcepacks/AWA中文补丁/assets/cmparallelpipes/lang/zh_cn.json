@@ -1,0 +1,13 @@
+{
+  "cmparallelpipes.ponder.locked_pipe.header": "锁定流体管道",
+  "cmparallelpipes.ponder.locked_pipe.text_1": "流体管道总会与相邻的流体管道连接",
+  "cmparallelpipes.ponder.locked_pipe.text_2": "使用管道扳手可以像包覆管道一样锁定管道的连接状态",
+  "cmparallelpipes.ponder.locked_pipe.text_3": "再次使用管道扳手即可解锁流体管道",
+  "cmparallelpipes.ponder.outline_segment.header": "轮廓与连接",
+  "cmparallelpipes.ponder.outline_segment.text_1": "手持管道扳手时，锁定的管道会显示轮廓",
+  "cmparallelpipes.ponder.outline_segment.text_2": "使用管道扳手可以配置锁定管道的连接",
+  "cmparallelpipes.ponder.outline_segment.text_3": "你可以添加一个端口",
+  "cmparallelpipes.ponder.outline_segment.text_4": "……也可以移除一个端口",
+  "cmparallelpipes.ponder.outline_segment.text_5": "但请注意，管道必须保留至少两个开放端口，否则无法继续移除。",
+  "item.cmparallelpipes.pipe_wrench": "管道扳手"
+}

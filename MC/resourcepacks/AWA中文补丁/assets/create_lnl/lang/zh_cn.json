@@ -1,0 +1,16 @@
+{
+  "block.create_lnl.contraption_lift": "动态结构升降台",
+  "block.create_lnl.thruster": "推进器",
+  "block.create_lnl.thruster_structure": "推进器",
+  "block.create_lnl.wheel": "车轮",
+  "create_lnl.keyinfo.c_lift": "顺时针旋转升降台上的动态结构",
+  "create_lnl.keyinfo.cc_lift": "逆时针旋转升降台上的动态结构",
+  "create_lnl.keyinfo.lower_lift": "降低动态结构升降台",
+  "create_lnl.keyinfo.raise_lift": "升高动态结构升降台",
+  "create_lnl.simulated_section.create_lnl": "Lift n' Load",
+  "item.create_lnl.large_slime_tire": "大型黏液轮胎",
+  "item.create_lnl.monstrous_slime_tire": "超大型黏液轮胎",
+  "item.create_lnl.physic_welder": "物理焊接器",
+  "item.create_lnl.slime_tire": "黏液轮胎",
+  "item.create_lnl.small_slime_tire": "小型黏液轮胎"
+}

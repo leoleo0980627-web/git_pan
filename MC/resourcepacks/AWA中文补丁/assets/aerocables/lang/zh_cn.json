@@ -1,0 +1,20 @@
+{
+  "aerocables.ponder.connector.header": "使用线缆连接器",
+  "aerocables.ponder.connector.text_1": "将线缆连接器放在绳索绞盘旁……",
+  "aerocables.ponder.connector.text_2": "……或放在绳索连接器旁。",
+  "aerocables.ponder.connector.text_3": "使用线缆连接两个连接器",
+  "aerocables.ponder.connector.text_4": "线缆可与绞盘配合使用",
+  "block.aerocables.ae_connector": "ME 线缆连接器",
+  "block.aerocables.cc_connector": "CC 网络连接器",
+  "block.aerocables.connector": "线缆连接器",
+  "block.aerocables.fe_connector": "能量线缆连接器",
+  "block.aerocables.rs_connector": "RS 网络连接器",
+  "config.aerocables.fe_cable_transfer": "能量线缆传输速率（FE/t）",
+  "item.aerocables.ae_cable": "ME 线缆卷轴",
+  "item.aerocables.cable": "线缆卷轴",
+  "item.aerocables.cc_cable": "CC 线缆卷轴",
+  "item.aerocables.fe_cable": "能量线缆卷轴",
+  "item.aerocables.rs_cable": "RS 线缆卷轴",
+  "itemGroup.aerocables.aerocables": "Aerocables",
+  "tooltip.aerocables.feCableTransferRate": "传输速率：%d FE/t"
+}

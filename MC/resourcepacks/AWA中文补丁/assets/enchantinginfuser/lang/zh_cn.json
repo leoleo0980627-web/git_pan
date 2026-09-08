@@ -1,0 +1,16 @@
+{
+  "block.enchantinginfuser.advanced_enchanting_infuser": "高级附魔灌注台",
+  "block.enchantinginfuser.description.choose": "为你的装备选择魔咒。",
+  "block.enchantinginfuser.description.chooseAndModify": "为你的装备选择、修改或移除魔咒。",
+  "block.enchantinginfuser.description.repair": "消耗经验等级修复装备。",
+  "block.enchantinginfuser.enchanting_infuser": "附魔灌注台",
+  "gui.enchantinginfuser.tooltip.change": "%s → %s",
+  "gui.enchantinginfuser.tooltip.current_enchanting_power": "当前附魔强度：%s / %s",
+  "gui.enchantinginfuser.tooltip.durability": "耐久度：%s",
+  "gui.enchantinginfuser.tooltip.enchanting_power.hint": "在灌注台周围以方形摆放更多书架，最多可摆放两层。",
+  "gui.enchantinginfuser.tooltip.incompatible": "此魔咒与以下魔咒冲突：%s",
+  "gui.enchantinginfuser.tooltip.lowPower1": "若要继续提升此魔咒的等级，需要附魔强度更高的灌注台。",
+  "gui.enchantinginfuser.tooltip.lowPower2": "若要修改此魔咒的等级，需要附魔强度更高的灌注台。",
+  "gui.enchantinginfuser.tooltip.points": "获得经验值",
+  "gui.enchantinginfuser.tooltip.unknown_enchantment": "此魔咒过于强大，当前灌注台的附魔强度不足。"
+}

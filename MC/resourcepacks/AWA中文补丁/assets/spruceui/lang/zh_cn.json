@@ -1,0 +1,12 @@
+{
+  "spruceui.reset": "重置",
+  "spruceui.gui.unbind": "解除绑定",
+  "spruceui.narrator.separator": "%s 分隔线",
+  "spruceui.narration.toggle_switch": "切换开关：%s，当前状态为 %s",
+  "spruceui.options.generic": "%s：%s",
+  "spruceui.options.generic.fancy": "精美",
+  "spruceui.options.generic.fast": "快速",
+  "spruceui.options.generic.fastest": "最快",
+  "spruceui.options.generic.simple": "简洁",
+  "spruceui.widget.separator": "分隔线"
+}

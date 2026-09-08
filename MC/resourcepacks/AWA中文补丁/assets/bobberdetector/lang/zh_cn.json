@@ -1,0 +1,9 @@
+{
+  "block.bobberdetector.bobber_detector": "浮标检测器",
+  "bobberdetector.ponder.detector.header": "自动钓鱼",
+  "bobberdetector.ponder.detector.text_1": "为机械手装上钓鱼竿，它便能替你钓鱼",
+  "bobberdetector.ponder.detector.text_2": "你无法直接看到水中的浮标，只能看到粒子效果",
+  "bobberdetector.ponder.detector.text_3": "但只要浮标进入检测范围，浮标检测器就会亮起",
+  "bobberdetector.ponder.detector.text_4": "鱼上钩时，检测器会发出红石信号",
+  "bobberdetector.ponder.detector.text_5": "至于怎样收集钓到的物品，就要由你来设计了"
+}

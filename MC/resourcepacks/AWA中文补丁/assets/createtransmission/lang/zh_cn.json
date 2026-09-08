@@ -1,0 +1,17 @@
+{
+  "block.createtransmission.andesite_encased_transmission_chain": "安山机壳传动链",
+  "block.createtransmission.brass_encased_transmission_chain": "黄铜机壳传动链",
+  "block.createtransmission.transmission_chain": "传动链",
+  "createtransmission.ponder.encasing.header": "为传动链加装机壳",
+  "createtransmission.ponder.encasing.text_1": "传动链也可以加装机壳！",
+  "createtransmission.ponder.encasing.text_2": "使用扳手可以移除机壳。",
+  "createtransmission.ponder.usage.header": "使用传动链传递旋转动力",
+  "createtransmission.ponder.usage.text_1": "链式传动箱可以在传送带之间传递旋转动力。",
+  "createtransmission.ponder.usage.text_2": "但它们十分笨重……",
+  "createtransmission.ponder.usage.text_3": "你也可以改用传动链！\n它们更加纤细，但只能用于传送带。",
+  "createtransmission.ponder.usage.text_4": "传动链能够以不同的布局为传送带提供动力。",
+  "createtransmission.ponder.usage.text_5": "可以水平传动……",
+  "createtransmission.ponder.usage.text_6": "……转过直角传动……",
+  "createtransmission.ponder.usage.text_7": "……也可以竖直传动。",
+  "creativeTab.createtransmission.main": "机械动力：传动"
+}

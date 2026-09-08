@@ -1,0 +1,7 @@
+{
+  "createcontraptionterminals.ponder.terminals.header": "将 Tom's Simple Storage 终端用于机械动力",
+  "createcontraptionterminals.ponder.terminals.text_1": "存储终端可以轻松访问物品保险库中的内容",
+  "createcontraptionterminals.ponder.terminals.text_2": "终端也能在已装配的动态结构上工作",
+  "createcontraptionterminals.ponder.terminals.text_3": "终端可以访问整个动态结构的物品栏",
+  "tooltip.cct.worksOnContraptions": "可用于机械动力动态结构"
+}

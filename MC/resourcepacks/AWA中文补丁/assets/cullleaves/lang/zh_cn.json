@@ -1,0 +1,7 @@
+{
+  "cullleaves.midnightconfig.title": "Cull Leaves 配置",
+  "cullleaves.midnightconfig.enabled.tooltip": "启用树叶面剔除，以有效提升性能",
+  "cullleaves.midnightconfig.enabled": "启用树叶剔除",
+  "cullleaves.midnightconfig.cullRoots.tooltip": "启用红树根面剔除",
+  "cullleaves.midnightconfig.cullRoots": "启用红树根剔除"
+}

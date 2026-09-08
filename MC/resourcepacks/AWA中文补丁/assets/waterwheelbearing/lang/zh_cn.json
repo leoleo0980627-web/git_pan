@@ -1,0 +1,18 @@
+{
+  "itemGroup.waterwheelbearing": "水轮轴承",
+  "block.waterwheelbearing.wheel_bearing": "水轮轴承",
+  "item.waterwheelbearing.wheel_bearing": "水轮轴承",
+  "waterwheelbearing.gui.goggles.wheel_bearing_stats": "水轮轴承数据：",
+  "waterwheelbearing.jade.status.idle": "尚未组装",
+  "waterwheelbearing.jade.status.running": "运行中",
+  "waterwheelbearing.jade.speed": "转速：%s RPM",
+  "waterwheelbearing.jade.stress": "应力容量：%s SU",
+  "config.jade.plugin_waterwheelbearing.wheel_bearing": "水轮轴承信息",
+  "waterwheelbearing.configuration.title": "水轮轴承配置",
+  "waterwheelbearing.configuration.section.waterwheelbearing.common.toml": "水轮轴承配置",
+  "waterwheelbearing.configuration.section.waterwheelbearing.common.toml.title": "水轮轴承配置",
+  "waterwheelbearing.configuration.items": "物品列表",
+  "waterwheelbearing.configuration.logDirtBlock": "记录泥土方块",
+  "waterwheelbearing.configuration.magicNumberIntroduction": "魔法数说明文本",
+  "waterwheelbearing.configuration.magicNumber": "魔法数"
+}

@@ -1,0 +1,7 @@
+{
+  "block.easy_piglins.barterer": "猪灵交易站",
+  "itemGroup.easy_piglins": "简易猪灵",
+  "gui.easy_piglins.input_items": "输入物品",
+  "gui.easy_piglins.output_items": "输出物品",
+  "message.easy_piglins.cant_pick_up": "无法收起正在敌对或忙碌的猪灵"
+}

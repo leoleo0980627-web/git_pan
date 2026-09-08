@@ -1,0 +1,12 @@
+{
+  "itemGroup.sablephysicscompat": "Sable 物理兼容",
+  "block.sablephysicscompat.example_block": "示例方块",
+  "item.sablephysicscompat.example_item": "示例物品",
+  "sablephysicscompat.configuration.title": "Sable：物理兼容配置",
+  "sablephysicscompat.configuration.section.sablephysicscompat.common.toml": "Sable：物理兼容配置",
+  "sablephysicscompat.configuration.section.sablephysicscompat.common.toml.title": "Sable：物理兼容配置",
+  "sablephysicscompat.configuration.items": "物品列表",
+  "sablephysicscompat.configuration.logDirtBlock": "记录泥土方块",
+  "sablephysicscompat.configuration.magicNumberIntroduction": "魔法数说明文本",
+  "sablephysicscompat.configuration.magicNumber": "魔法数"
+}

@@ -1,0 +1,10 @@
+{
+  "item.enderstorage.ender_pouch": "末影袋",
+  "block.enderstorage.ender_chest": "末影箱",
+  "enderstorage.command.no_colour": "无效的颜色：%s",
+  "enderstorage.command.usage": "enderstorage <freq>|(<colour> <colour> <colour>) [owner]",
+  "enderstorage.command.no_freq": "无效的频率",
+  "block.enderstorage.ender_tank": "末影储罐",
+  "enderstorage.command.no_arguments": "参数数量无效",
+  "enderstorage.serverop": "管理员"
+}

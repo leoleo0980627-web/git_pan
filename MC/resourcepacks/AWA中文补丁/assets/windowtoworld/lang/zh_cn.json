@@ -1,0 +1,9 @@
+{
+  "block.windowtoworld.monitor": "桌面显示器",
+  "itemGroup.windowtoworld": "Windows to World",
+  "key.windowtoworld.interact": "切换显示器交互",
+  "windowtoworld.interaction.title": "桌面显示器",
+  "windowtoworld.interaction.started": "已开始与桌面交互",
+  "windowtoworld.interaction.stopped": "已停止与桌面交互",
+  "windowtoworld.mob_spawned": "%s 已从桌面图像中生成！"
+}

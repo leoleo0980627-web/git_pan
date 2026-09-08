@@ -1,0 +1,17 @@
+AWA 中文补丁翻译报告
+
+Minecraft 版本：1.21.1
+资源包 pack_format：34
+扫描 JAR：222
+实际检查 namespace：200
+en_us key 总数：31569
+最终 zh_cn key 总数：31569
+缺失 key：0
+占位符错误：0
+控制字符错误：0
+JSON 解析错误：0
+异常中英混合：0
+最终未翻译的玩家可见自然语言：0
+
+说明：Collective 内嵌了大量未安装 Serilum 模组的语言段；这些 key 为保证集合完整而保留，但不计入 AWA 玩家可见文本。
+所有已完成 namespace 均来自 state.json 的独立 checkpoint；换行数量差异仅作提示，不作为失败条件。

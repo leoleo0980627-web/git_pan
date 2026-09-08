@@ -1,0 +1,11 @@
+{
+  "container.enchant.experience.many": "%s 点经验值",
+  "container.enchant.experience.one": "1 点经验值",
+  "container.enchant.reroll": "重随附魔",
+  "container.enchant.reroll.many": "%s 个紫水晶碎片",
+  "container.enchant.reroll.one": "1 个紫水晶碎片",
+  "container.invalidBlock": "无法打开。请破坏后重新放置再使用。",
+  "tag.block.easymagic.unaltered_enchanting_tables": "未经修改的附魔台",
+  "tag.item.easymagic.enchanting_catalysts": "附魔催化剂",
+  "tag.item.easymagic.reroll_catalysts": "重随催化剂"
+}

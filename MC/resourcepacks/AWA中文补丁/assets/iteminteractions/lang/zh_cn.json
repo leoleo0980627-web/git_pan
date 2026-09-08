@@ -1,0 +1,9 @@
+{
+  "item.container.tooltip.hold": "按住",
+  "item.container.tooltip.press": "按下",
+  "item.container.tooltip.revealContents": "%s %s 以查看内容物",
+  "key.categories.iteminteractions": "物品交互",
+  "key.toggleCarriedItemTooltips": "切换所携物品提示",
+  "key.toggleSelectedItemTooltips": "切换所选物品提示",
+  "key.toggleVisualItemContents": "切换物品内容物预览"
+}

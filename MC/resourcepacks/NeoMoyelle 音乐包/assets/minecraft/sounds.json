@@ -1,0 +1,8 @@
+{
+  "music.game": {
+    "sounds": [
+      { "name": "music/healing/neomoyelle_track", "stream": true },
+    ],
+    "replace": true
+  }
+}

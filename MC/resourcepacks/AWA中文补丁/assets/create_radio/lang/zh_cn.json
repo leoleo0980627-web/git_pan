@@ -1,0 +1,14 @@
+{
+  "itemGroup.create_radio.main": "机械动力：无线电航天学",
+  "container.create_radio.brass_radio_link": "黄铜无线电链路",
+  "container.create_radio.astronautical_radio_link": "航天无线电链路",
+  "gui.create_radio.brass_radio_link.save": "保存",
+  "gui.create_radio.brass_radio_link.sender": "发送端",
+  "gui.create_radio.brass_radio_link.receiver": "接收端",
+  "gui.create_radio.brass_radio_link.frequency": "频率",
+  "block.create_radio.andesite_radio_antenna": "安山无线电天线",
+  "block.create_radio.copper_radio_antenna": "铜制无线电天线",
+  "block.create_radio.brass_radio_antenna": "黄铜无线电天线",
+  "block.create_radio.astronautical_radio_link": "航天无线电链路",
+  "block.create_radio.brass_radio_link": "黄铜无线电链路"
+}
